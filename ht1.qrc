@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="ht">
+    <file>butt3.png</file>
+    <file>credenz1.png</file>
+    <file>credenz2.png</file>
+    <file>ieee.png</file>
+  </qresource>
+</RCC>
